@@ -1,4 +1,4 @@
-package com.liusxg.springbootprovider;
+package com.cw.springbootprovider;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

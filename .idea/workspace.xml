@@ -2,29 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91b19f21-4334-4628-be39-70d20511bf66" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-api/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-api/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-api/src/main/java/com/liusxg/springbootapi/IDubboProvider.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-api/src/main/java/com/liusxg/springbootapi/Response.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cosumer/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cosumer/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cosumer/src/main/java/com/liusxg/springbootcosumer/SpringBootCosumerApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cosumer/src/main/java/com/liusxg/springbootcosumer/consumer/DemoConsumerController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cosumer/src/main/resources/application.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-cosumer/src/test/java/com/liusxg/springbootcosumer/SpringBootCosumerApplicationTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-provider/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-provider/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-provider/src/main/java/com/liusxg/springbootprovider/SpringBootProviderApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-provider/src/main/java/com/liusxg/springbootprovider/server/DubboProvider.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-provider/src/main/java/com/liusxg/springbootprovider/server/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-provider/src/main/resources/application.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-boot-provider/src/test/java/com/liusxg/springbootprovider/SpringBootProviderApplicationTests.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-api/src/main/java/com/liusxg/springbootapi/IDubboProvider.java" afterPath="$PROJECT_DIR$/spring-boot-api/src/main/java/com/cw/springbootapi/IDubboProvider.java" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-api/src/main/java/com/liusxg/springbootapi/Response.java" afterPath="$PROJECT_DIR$/spring-boot-api/src/main/java/com/cw/springbootapi/Response.java" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-cosumer/src/main/java/com/liusxg/springbootcosumer/SpringBootCosumerApplication.java" afterPath="$PROJECT_DIR$/spring-boot-cosumer/src/main/java/com/cw/springbootcosumer/SpringBootCosumerApplication.java" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-cosumer/src/main/java/com/liusxg/springbootcosumer/consumer/DemoConsumerController.java" afterPath="$PROJECT_DIR$/spring-boot-cosumer/src/main/java/com/cw/springbootcosumer/consumer/DemoConsumerController.java" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-cosumer/src/test/java/com/liusxg/springbootcosumer/SpringBootCosumerApplicationTests.java" afterPath="$PROJECT_DIR$/spring-boot-cosumer/src/test/java/com/cw/springbootcosumer/SpringBootCosumerApplicationTests.java" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-provider/src/main/java/com/liusxg/springbootprovider/SpringBootProviderApplication.java" afterPath="$PROJECT_DIR$/spring-boot-provider/src/main/java/com/cw/springbootprovider/SpringBootProviderApplication.java" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-provider/src/main/java/com/liusxg/springbootprovider/server/DubboProvider.java" afterPath="$PROJECT_DIR$/spring-boot-provider/src/main/java/com/cw/springbootprovider/server/DubboProvider.java" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-provider/src/main/java/com/liusxg/springbootprovider/server/Test.java" afterPath="$PROJECT_DIR$/spring-boot-provider/src/main/java/com/cw/springbootprovider/server/Test.java" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-provider/src/test/java/com/liusxg/springbootprovider/SpringBootProviderApplicationTests.java" afterPath="$PROJECT_DIR$/spring-boot-provider/src/test/java/com/cw/springbootprovider/SpringBootProviderApplicationTests.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../springboot-dubbo-zookeeper-demo/spring-boot-api/target/" />
     <ignored path="$PROJECT_DIR$/../springboot-dubbo-zookeeper-demo/spring-boot-cosumer/target/" />
@@ -41,8 +29,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpringBootProviderApplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-boot-provider/src/main/java/com/cw/springbootprovider/SpringBootProviderApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpringBootCosumerApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-cosumer/src/main/java/com/cw/springbootcosumer/SpringBootCosumerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-provider/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -106,6 +126,106 @@
               <item name="springBoot-dubbo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springBoot-dubbo" type="462c0819:PsiDirectoryNode" />
               <item name="spring-boot-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBoot-dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBoot-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBoot-dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBoot-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBoot-dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBoot-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBoot-dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBoot-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootapi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBoot-dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBoot-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-cosumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBoot-dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBoot-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-cosumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBoot-dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBoot-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-cosumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBoot-dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBoot-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-cosumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBoot-dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBoot-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-cosumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootcosumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBoot-dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBoot-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBoot-dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBoot-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBoot-dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBoot-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBoot-dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBoot-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBoot-dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBoot-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootprovider" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -200,6 +320,17 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
+    <configuration name="SpringBootProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.cw.springbootprovider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cw.springbootprovider.SpringBootProviderApplication" />
+      <module name="spring-boot-provider" />
+      <envs />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -233,6 +364,11 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.SpringBootProviderApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -248,12 +384,20 @@
       <option name="presentableId" value="Default" />
       <updated>1569207955526</updated>
       <workItem from="1569207956866" duration="127000" />
-      <workItem from="1569208248169" duration="223000" />
+      <workItem from="1569208248169" duration="734000" />
     </task>
+    <task id="LOCAL-00001" summary="springBoot-dubbo">
+      <created>1569208513401</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569208513401</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="350000" />
+    <option name="totallyTimeSpent" value="861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -268,14 +412,15 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39915073" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -299,16 +444,54 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="springBoot-dubbo" />
+    <option name="LAST_COMMIT_MESSAGE" value="springBoot-dubbo" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+    <entry file="file://$PROJECT_DIR$/spring-boot-api/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cosumer/src/main/java/com/cw/springbootcosumer/SpringBootCosumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-provider/src/main/java/com/cw/springbootprovider/SpringBootProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

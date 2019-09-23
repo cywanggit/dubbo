@@ -1,8 +1,8 @@
-package com.liusxg.springbootprovider.server;
+package com.cw.springbootprovider.server;
 
 import com.alibaba.dubbo.config.annotation.Service;
-import com.liusxg.springbootapi.IDubboProvider;
-import com.liusxg.springbootapi.Response;
+import com.cw.springbootapi.IDubboProvider;
+import com.cw.springbootapi.Response;
 
 /**
  * Created by liusxg on 2018/5/10.

@@ -1,4 +1,4 @@
-package com.liusxg.springbootprovider.server;
+package com.cw.springbootprovider.server;
 
 import com.alibaba.dubbo.common.utils.NamedThreadFactory;
 

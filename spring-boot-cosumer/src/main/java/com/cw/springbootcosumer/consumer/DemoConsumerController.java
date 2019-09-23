@@ -1,7 +1,7 @@
-package com.liusxg.springbootcosumer.consumer;
+package com.cw.springbootcosumer.consumer;
 import com.alibaba.dubbo.config.annotation.Reference;
-import com.liusxg.springbootapi.IDubboProvider;
-import com.liusxg.springbootapi.Response;
+import com.cw.springbootapi.IDubboProvider;
+import com.cw.springbootapi.Response;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

@@ -1,4 +1,4 @@
-package com.liusxg.springbootapi;
+package com.cw.springbootapi;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

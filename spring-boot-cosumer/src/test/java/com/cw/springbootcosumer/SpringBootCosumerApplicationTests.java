@@ -1,4 +1,4 @@
-package com.liusxg.springbootprovider;
+package com.cw.springbootcosumer;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringBootProviderApplicationTests {
+public class SpringBootCosumerApplicationTests {
 
 	@Test
 	public void contextLoads() {

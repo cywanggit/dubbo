@@ -1,4 +1,4 @@
-package com.liusxg.springbootcosumer;
+package com.cw.springbootcosumer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
